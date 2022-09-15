@@ -1,0 +1,12 @@
+{
+    "name": "ning/practice-framework",
+    "description": "This is a practice framework",
+    "type": "framework",
+    "keywords": [
+        "php",
+        "framework"
+    ],
+    "require":{
+        "php": "^7.2|^8.1"
+    }
+}
